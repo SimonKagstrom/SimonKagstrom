@@ -1,4 +1,8 @@
-## Hi there 👋
+## Simon Kågström
+
+Welcome to my profile! I'm a consultant software developer specializing in embedded systems. I enjoy working with Linux systems as well as MCU-based systems with e.g., FreeRTOS but I've also done a few Qt applications, for both Linux and MacOS. My main language is C++, but I'm also fluent in C, Python and CMake (plus bash etc).
+
+If you're interested in having me as a consultant, feel free to contact me!
 
 <!--
 **SimonKagstrom/SimonKagstrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

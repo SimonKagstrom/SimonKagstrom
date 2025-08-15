@@ -12,7 +12,7 @@ I do a lot of open source work in my spare time, which is available here. A few 
 - [emilpro](https://github.com/SimonKagstrom/emilpro): A Qt-based graphical disassembler for multiple architectures
 - [cibyl](https://github.com/SimonKagstrom/cibyl): (older, but a favourite of mine) A binary translator for MIPS to Java bytecode, used to run C/C++ programs on J2ME phones
 
-## Connecting
+## Contacting me
 [Linkedin](https://www.linkedin.com/in/simonkagstrom/) | `simon.kagstrom@gmail.com`
 
 [![Simon's GitHub stats](https://github-readme-stats.vercel.app/api?username=SimonKagstrom)](https://github.com/SimonKagstrom/github-readme-stats)
